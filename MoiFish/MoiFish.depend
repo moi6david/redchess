@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1686261051 source:c:\users\moi6d\documents\moifish\main.cpp
+	"MoiFish.h"
+
+1681156814 source:c:\users\moi6d\documents\moifish\moifish.c
+
+1686261050 c:\users\moi6d\documents\moifish\moifish.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+	<vector>
+	<string>
+
+1686197915 source:c:\users\moi6d\documents\moifish\moifish.cpp
+	"MoiFish.h"
+
+1686261330 source:c:\users\moi6d\documents\moifish\generador.cpp
+	"MoiFish.h"
+
+1686259737 source:c:\users\moi6d\documents\moifish\evaluacion.cpp
+	"MoiFish.h"
+
+1686192730 source:c:\users\moi6d\documents\moifish\pgnyfen.cpp
+	"MoiFish.h"
+
+1686261351 source:c:\users\moi6d\documents\moifish\arbol.cpp
+	"MoiFish.h"
+
